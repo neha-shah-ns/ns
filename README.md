@@ -1,4 +1,4 @@
-<h1>Hi, I'm Neha! <br/><a href="https://github.com/nshah-11">Data Analyst</a>
+<h1>Hi, I'm Neha! <br/><a href="https://github.com/nshah-11?tab=repositories">Data Analyst</a>
 </h1>
 
 <h2>👩‍💻 Academic Projects</h2>
