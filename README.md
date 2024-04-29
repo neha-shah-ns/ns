@@ -3,10 +3,15 @@
 
 <h2>👩‍💻 Academic Projects</h2>
 
+- <b>Chicago Bikeshare: Ridership Analysis</b>
+  - [Summary](https://github.com/nshah-11/divvy-bikesharing)
 - <b>Impact of Medical Malpractice Payment Claims on Healthcare</b>
   - [Summary](https://github.com/nshah-11/medical-malpractice)
+- <b>Reducing Screen Time for Improved Health</b>
+  - Summary
 - <b>Customer Classification and Prescriptive Modeling of Portuguese Bank Marketing</b>
   - [Summary](https://github.com/nshah-11/bank-marketing)
+
 
 
 <h2>📺 YouTube Videos</h2>
