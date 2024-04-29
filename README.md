@@ -12,11 +12,6 @@
 - <b>Customer Classification and Prescriptive Modeling of Portuguese Bank Marketing</b>
   - [Summary](https://github.com/nshah-11/bank-marketing)
 
-
-
-<h2>📺 YouTube Videos</h2>
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
