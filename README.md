@@ -1,7 +1,7 @@
 <h1>Hi, I'm Neha! <br/><a href="https://github.com/nshah-11">Data Analyst</a>
 </h1>
 
-<h2>👩‍💻 Academic Projects:</h2>
+<h2>👩‍💻 Academic Projects</h2>
 
 - <b>Impact of Medical Malpractice Payment Claims on Healthcare</b>
   - [Summary](https://github.com/nshah-11/medical-malpractice)
