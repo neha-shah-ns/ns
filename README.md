@@ -14,9 +14,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NehaShah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NehaShah | LinkedIn" width="22px" src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" />][tableau]
+
 
 [linkedin]: https://www.linkedin.com/in/ns-neha-shah/
+[tableau]: https://public.tableau.com/app/profile/neha.shah.ns/vizzes
 
 <!--
 Here are some ideas to get you started:
