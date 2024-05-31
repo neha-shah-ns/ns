@@ -6,7 +6,7 @@
 <h2>👩‍💻 Academic Projects</h2>
 
 | Title                            | Summary                                                             | Repo              | Date |
-| -------------------------------- | ------------------------------------------------------------------------ | ----------------- |---------------------------|
+| -------------------------------- | ------------------------------------------------------------------------ | ----------------- |----------------------------------------|
 | Divvy Bikesharing                | Predicting daily trip demand through an interactive dashboard. | [GitHub](https://github.com/nshah-11/divvy-bikesharing)       | January – April 2024 |
 | Medical Malpractice              | Built several classification models to predict malpractice payment claims.     | [GitHub](https://github.com/nshah-11/medical-malpractice)   | November – December 2023 |
 | Reducing Screen Time             | A business case for adressing high screentime to improve an individual's health and productivity. | [GitHub](https://github.com/nshah-11/reducing-screentime) | November – December 2023|
