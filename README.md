@@ -5,12 +5,12 @@
 
 <h2>👩‍💻 Academic Projects</h2>
 
-| Title                            | Summary                                                             | Repo              |
-| -------------------------------- | ------------------------------------------------------------------------ | ----------------- |
-| Divvy Bikesharing                | Predicting daily trip demand through an interactive dashboard.           | [GitHub](https://github.com/nshah-11/divvy-bikesharing)       |
-| Medical Malpractice              | Built several classification models to predict malpractice payment claims.     | [GitHub](https://github.com/nshah-11/medical-malpractice)       |
-| Reducing Screen Time             | A business case for adressing high screentime to improve an individual's health and productivity.      | [GitHub](https://github.com/nshah-11/reducing-screentime)       |
-| Bank Marketing                   | Identify ideal profiles for target markets and find a reliable model that predicts closing outcomes.   | [GitHub](https://github.com/nshah-11/bank-marketing)       |
+| Title                            | Summary                                                             | Repo              | Date |
+| -------------------------------- | ------------------------------------------------------------------------ | ----------------- |---------------------------|
+| Divvy Bikesharing                | Predicting daily trip demand through an interactive dashboard.           | [GitHub](https://github.com/nshah-11/divvy-bikesharing)       | January 2024 - April 2024 |
+| Medical Malpractice              | Built several classification models to predict malpractice payment claims.     | [GitHub](https://github.com/nshah-11/medical-malpractice)   | November 2023 – December 2023 |
+| Reducing Screen Time             | A business case for adressing high screentime to improve an individual's health and productivity.      | [GitHub](https://github.com/nshah-11/reducing-screentime)  | November 2023 – December 2023|
+| Bank Marketing                   | Identify ideal profiles for target markets and find a reliable model that predicts closing outcomes.   | [GitHub](https://github.com/nshah-11/bank-marketing)       |May 2023 - July 2023|
 
 <h2> 🤳 Connect with me:</h2>
 
